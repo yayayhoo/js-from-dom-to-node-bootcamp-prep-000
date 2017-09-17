@@ -7,3 +7,10 @@ if(5>2) {
 else {
   console.log('impossible');
 }
+
+var dog='satisfied'
+if (dog === 'hungry') {
+  console.log('food!!!')
+}else {
+  console.log('full!!!')
+}
